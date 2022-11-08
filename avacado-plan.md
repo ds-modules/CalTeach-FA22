@@ -1,15 +1,30 @@
 # Avocado Analysis
 
+## Inspiration
+
+- [Curriculum Idea](https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/two-sample-t-test.html)
+
+- Objective: Students will be able to understand, perform, and analyze results of a t-test using data that they have collected. 
+
+- Idea should be similar to the [Gecko Physics Example](https://datahub.berkeley.edu/user/ailynnguyen/notebooks/IB-C32/Final/Gecko_Inspired_Adhesive_Analysis.ipynb)
+
+- Target Audience: High school (AP) statistic students (need to try to make language engaging, maybe add visual elements?)
+
+
+
 ## Introduction
 
 Avocados. From guacamole to morning toast, avocados have risen in popularity immensely. They are used in salads and salsas, spring rolls and sandwiches–they are even snuck into chocolatey brownies! But of course, if more and more people want a product, what do you think will happen to the price?
 
 Let’s make a hypothesis of what you expect the price of avocados to look like overtime if more and more people continue to want them? In your hypothesis, include your
+
 Claim: “Avocado prices will rise/drop/stay the same/etc.”
+
 Explanation: “because….”
+
 Type below:
 
-
+<center><code>Insert Cell here</code></center>
 
 
 # t-Test
@@ -17,9 +32,7 @@ Type below:
 How can we look at changes overtime? Well, luckily the Hass Avocado Board has an extensive national dataset of avocado prices (and more!) from 2015 and onwards.
 
 Let’s take a look at a random sample of the avocado prices in 2019 and 2022 from California:
-[FOR JONATHAN: here is a link for the dataset from 2019 and here is the link for the dataset from 2022 you may need to scroll down until you find the “Totals by PLU” box and download the csv that says “Download 2019/22 Weekly Retail Volume and Price Report”; I had to make an account to access this, but it is free and takes a couple of seconds! I’m not sure how to access this data and get a random sample of about 50 prices from each data set, so let’s talk further about that!
-Ideally, the random sample should be formatted in a graph that shows some sort of distribution (like scatter plot or bar graph!)
-I’m not sure of the extent for Jupyter graphs/visuals, but if it could have the option to display the 2019 graph only, 2022 graph only, and both at the same time, that would be awesome here!]
+> [FOR JONATHAN: here is a link for the dataset from 2019 and here is the link for the dataset from 2022 you may need to scroll down until you find the “Totals by PLU” box and download the csv that says “Download 2019/22 Weekly Retail Volume and Price Report”; I had to make an account to access this, but it is free and takes a couple of seconds! I’m not sure how to access this data and get a random sample of about 50 prices from each data set, so let’s talk further about that! Ideally, the random sample should be formatted in a graph that shows some sort of distribution (like scatter plot or bar graph!) I’m not sure of the extent for Jupyter graphs/visuals, but if it could have the option to display the 2019 graph only, 2022 graph only, and both at the same time, that would be awesome here!]
 
 What are some observations (trend, mean/median, variability/range, outliers, significant data points, etc.) you have about the data in 2019? 
 

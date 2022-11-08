@@ -24,8 +24,10 @@ Explanation: “because….”
 
 Type below:
 
+_______
 <center><code>Insert Cell here</code></center>
 
+_______
 
 # t-Test
 
@@ -35,21 +37,37 @@ Let’s take a look at a random sample of the avocado prices in 2019 and 2022 fr
 > [FOR JONATHAN: here is a link for the dataset from 2019 and here is the link for the dataset from 2022 you may need to scroll down until you find the “Totals by PLU” box and download the csv that says “Download 2019/22 Weekly Retail Volume and Price Report”; I had to make an account to access this, but it is free and takes a couple of seconds! I’m not sure how to access this data and get a random sample of about 50 prices from each data set, so let’s talk further about that! Ideally, the random sample should be formatted in a graph that shows some sort of distribution (like scatter plot or bar graph!) I’m not sure of the extent for Jupyter graphs/visuals, but if it could have the option to display the 2019 graph only, 2022 graph only, and both at the same time, that would be awesome here!]
 
 What are some observations (trend, mean/median, variability/range, outliers, significant data points, etc.) you have about the data in 2019? 
+_______
+<center><code>Insert Cell here</code></center>
+
+_______
 
 
 
 
 What are some observations (trend, mean/median, variability/range, outliers, significant data points, etc.) you have about the data in 2022? 
+_______
+<center><code>Insert Cell here</code></center>
+
+_______
 
 
 
 
 What specific value(s) in each data set should we use to determine if there was a change overtime?
+_______
+<center><code>Insert Cell here</code></center>
+
+_______
 
 
 
 
 Looking at the dataset, what would you hypothesize? Do you think there is a change in price between the two years? In which direction? How confident are you and why? 
+_______
+<center><code>Insert Cell here</code></center>
+
+_______
 
 
 

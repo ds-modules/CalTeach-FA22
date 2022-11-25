@@ -1,5 +1,5 @@
 # Avocado Analysis
-
+> [Google Doc Instructions](https://docs.google.com/document/d/1IH8mhiCFZPvLxnAPhT7JZ_xHj0-DA2Nkfuzz_6kuj24/edit)
 ## Inspiration
 
 - [Curriculum Idea](https://www.jmp.com/en_us/statistics-knowledge-portal/t-test/two-sample-t-test.html)

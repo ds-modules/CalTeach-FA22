@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import plotly.express as px
 from ipywidgets import *
 from IPython import *
@@ -29,3 +30,41 @@ def plot_oil():
     
 def show_history():
     return IFrame("https://www.historycentral.com/Today/21st.html#:~:text=2003%2D%20U.S.%20Invades%20Iraq", width = "100%", height = 800)
+
+def r_scatter(r = None, num = 10):
+    "Generate a scatter plot with a correlation approximately r"
+    if r:
+        x = np.random.normal(0, 1, num)
+        z = np.random.normal(0, 1, num)
+        y = r*x + (np.sqrt(1-r**2))*z
+        fig = px.scatter(x = x, y = y, template = "seaborn")
+        fig.update_layout(height = 600, width = 600)
+        fig.show()
+    else:
+    
+        @interact(r = FloatSlider(min = -1, max = 1, value = .2, step= .05), n = Dropdown(options = [10, 100, 1000], value = 100), line = Checkbox(value = False, description = "Show regression line"))
+        def helper(r, n = 100, line = False):
+            x = np.random.normal(0, 1, n)
+            z = np.random.normal(0, 1, n)
+            y = r*x + (np.sqrt(1-r**2))*z
+            if line:
+                fig = px.scatter(x = x, y = y, template = "seaborn", title = f"Scatter of variables with correlation r={r}", trendline = "ols")
+            else:
+                fig = px.scatter(x = x, y = y, template = "seaborn", title = f"Scatter of variables with correlation r={r}")
+            fig.update_layout(height = 600, width = 600)
+            fig.show()
+            
+def corr_examples(r, line = False):
+    x = np.random.normal(0, 1, 50)
+    z = np.random.normal(0, 1, 50)
+    y1 = r*x + (np.sqrt(1-r**2))*z
+    y2 = (-r)*x + (np.sqrt(1-(-r)**2))*z
+    df1 = pd.DataFrame({"x": x, "y": y1, "label" : ["test 1"]*50})
+    df2 = pd.DataFrame({"x": x, "y": y2, "label" : ["test 2"]*50})
+    df = pd.concat([df1, df2])
+    if line:
+        fig = px.scatter(df, x = "x", y = "y", template = "seaborn", facet_col = "label", trendline = "ols")
+    else:
+        fig = px.scatter(df, x = "x", y = "y", template = "seaborn", facet_col = "label")
+    fig.update_layout(height = 600, width = 1200)
+    fig.show()

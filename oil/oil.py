@@ -34,12 +34,13 @@ def oil_line():
     @interact(line = Checkbox(value = False, description = "Show regression line"))
     def helper(line):
         if line:
-            px.scatter(oil, x = "date", y = "barrels", template = "seaborn", title = "Oil Production in the United States", trendline = "ols")
+            fig =  px.scatter(oil, x = "date", y = "barrels", template = "seaborn", title = "Oil Production in the United States", trendline = "ols")
         else:
-            px.scatter(oil, x = "date", y = "barrels", template = "seaborn", title = "Oil Production in the United States")
+            fig = px.scatter(oil, x = "date", y = "barrels", template = "seaborn", title = "Oil Production in the United States")
+        return fig
         
 def show_history():
-    return IFrame("https://www.historycentral.com/Today/21st.html#:~:text=2003%2D%20U.S.%20Invades%20Iraq", width = "100%", height = 800)
+    return IFrame("https://www.historycentral.com/Today/21st.html#:~:text=2003%2D%20U.S.%20Invades%20Iraq", width = "100%", height = 600)
 
 def r_scatter(r = None, num = 10):
     "Generate a scatter plot with a correlation approximately r"
@@ -78,5 +79,5 @@ def corr_examples(r, line = False):
         fig = px.scatter(df, x = "x", y = "y", template = "seaborn", facet_col = "label", trendline = "ols")
     else:
         fig = px.scatter(df, x = "x", y = "y", template = "seaborn", facet_col = "label")
-    fig.update_layout(height = 600, width = 1200)
+    fig.update_layout(height = 400, width = 800)
     fig.show()

@@ -1,0 +1,179 @@
+,food,size,price
+0,Cheese (Original),Small,8.0
+1,Cheese (Original),Medium,10.0
+2,Cheese (Original),Large,12.0
+3,Cheese (Original),Extra Large,14.0
+4,Cheese (Thin),Large,12.0
+5,John's Favorite (Original),Small,13.0
+6,John's Favorite (Original),Medium,15.0
+7,John's Favorite (Original),Large,17.0
+8,John's Favorite (Original),Extra Large,19.0
+9,John's Favorite (Thin),Large,17.0
+10,Pepperoni (Original),Small,9.0
+11,Pepperoni (Original),Medium,11.25
+12,Pepperoni (Original),Large,13.5
+13,Pepperoni (Original),Extra Large,15.75
+14,Pepperoni (Thin),Large,13.5
+15,Sausage (Original),Small,9.0
+16,Sausage (Original),Medium,11.25
+17,Sausage (Original),Large,13.5
+18,Sausage (Original),Extra Large,15.75
+19,Sausage (Thin),Large,13.5
+20,The Works (Original),Small,13.0
+21,The Works (Original),Medium,15.0
+22,The Works (Original),Large,17.0
+23,The Works (Original),Extra Large,19.0
+24,The Works (Thin),Large,17.0
+25,The Meats (Original),Small,13.0
+26,The Meats (Original),Medium,15.0
+27,The Meats (Original),Large,17.0
+28,The Meats (Original),Extra Large,19.0
+29,The Meats (Thin),Large,17.0
+30,Buffalo Chicken (Original),Small,13.0
+31,Buffalo Chicken (Original),Medium,15.0
+32,Buffalo Chicken (Original),Large,17.0
+33,Buffalo Chicken (Original),Extra Large,19.0
+34,Buffalo Chicken (Thin),Large,17.0
+35,Garden Fresh (Original),Small,13.0
+36,Garden Fresh (Original),Medium,15.0
+37,Garden Fresh (Original),Large,17.0
+38,Garden Fresh (Original),Extra Large,19.0
+39,Garden Fresh (Thin),Large,17.0
+40,Spicy Italian (Original),Small,13.0
+41,Spicy Italian (Original),Medium,15.0
+42,Spicy Italian (Original),Large,17.0
+43,Spicy Italian (Original),Extra Large,19.0
+44,Spicy Italian (Thin),Large,17.0
+45,Spinach Alfredo (Original),Small,13.0
+46,Spinach Alfredo (Original),Medium,15.0
+47,Spinach Alfredo (Original),Large,17.0
+48,Spinach Alfredo (Original),Extra Large,19.0
+49,Spinach Alfredo (Thin),Large,17.0
+50,BBQ Chicken Bacon (Original),Small,13.0
+51,BBQ Chicken Bacon (Original),Medium,15.0
+52,BBQ Chicken Bacon (Original),Large,17.0
+53,BBQ Chicken Bacon (Original),Extra Large,19.0
+54,BBQ Chicken Bacon (Thin),Large,17.0
+55,Hawaiian BBQ Chicken (Original),Small,13.0
+56,Hawaiian BBQ Chicken (Original),Medium,15.0
+57,Hawaiian BBQ Chicken (Original),Large,17.0
+58,Hawaiian BBQ Chicken (Original),Extra Large,19.0
+59,Hawaiian BBQ Chicken (Thin),Large,17.0
+60,Tuscan Six Cheese (Original),Small,13.0
+61,Tuscan Six Cheese (Original),Medium,15.0
+62,Tuscan Six Cheese (Original),Large,17.0
+63,Tuscan Six Cheese (Original),Extra Large,19.0
+64,Tuscan Six Cheese (Thin),Large,17.0
+65,Mediterranean Veggie (Original),Small,13.0
+66,Mediterranean Veggie (Original),Medium,15.0
+67,Mediterranean Veggie (Original),Large,17.0
+68,Mediterranean Veggie (Original),Extra Large,19.0
+69,Mediterranean Veggie (Thin),Large,17.0
+70,Chicken and Veggie (Original),Small,13.0
+71,Chicken and Veggie (Original),Medium,15.0
+72,Chicken and Veggie (Original),Large,17.0
+73,Chicken and Veggie (Original),Extra Large,19.0
+74,Chicken and Veggie (Thin),Large,17.0
+75,Grilled Chicken & Canadian Bacon (Original),Small,13.0
+76,Grilled Chicken & Canadian Bacon (Original),Medium,15.0
+77,Grilled Chicken & Canadian Bacon (Original),Large,17.0
+78,Grilled Chicken & Canadian Bacon (Original),Extra Large,19.0
+79,Grilled Chicken & Canadian Bacon (Thin),Large,17.0
+80,Tropical Luau (Original),Small,13.0
+81,Tropical Luau (Original),Medium,15.0
+82,Tropical Luau (Original),Large,17.0
+83,Tropical Luau (Original),Extra Large,19.0
+84,Tropical Luau (Thin),Large,17.0
+85,Hawaiian Chicken (Original),Small,13.0
+86,Hawaiian Chicken (Original),Medium,15.0
+87,Hawaiian Chicken (Original),Large,17.0
+88,Hawaiian Chicken (Original),Extra Large,19.0
+89,Hawaiian Chicken (Thin),Large,17.0
+90,Double Bacon 6 Cheese (Original),Small,13.0
+91,Double Bacon 6 Cheese (Original),Medium,15.0
+92,Double Bacon 6 Cheese (Original),Large,17.0
+93,Double Bacon 6 Cheese (Original),Extra Large,19.0
+94,Double Bacon 6 Cheese (Thin),Large,17.0
+95,Grilled Chicken Club (Original),Small,13.0
+96,Grilled Chicken Club (Original),Medium,15.0
+97,Grilled Chicken Club (Original),Large,17.0
+98,Grilled Chicken Club (Original),Extra Large,19.0
+99,Grilled Chicken Club (Thin),Large,17.0
+100,Cheesy Chicken Cordon Bleu (Original),Small,13.0
+101,Cheesy Chicken Cordon Bleu (Original),Medium,15.0
+102,Cheesy Chicken Cordon Bleu (Original),Large,17.0
+103,Cheesy Chicken Cordon Bleu (Original),Extra Large,19.0
+104,Cheesy Chicken Cordon Bleu (Thin),Large,17.0
+105,Garlic Knots,8 Pc.,5.0
+106,Breadsticks,,5.99
+107,Parmesan Breadsticks,,6.25
+108,6 Cheese Breadsticks,10 in.,6.5
+109,6 Cheese Breadsticks,12 in.,7.5
+110,Cheesesticks,10 in.,5.99
+111,Cheesesticks,12 in.,6.99
+112,Bacon Cheesesticks,10 in.,7.0
+113,Bacon Cheesesticks,12 in.,8.0
+114,Chicken Poppers,10 Pc.,5.0
+115,Chicken Poppers,15 Pc.,7.0
+116,Chicken Poppers,30 Pc.,12.5
+117,Chicken Poppers,45 Pc.,18.5
+118,Chicken Poppers,60 Pc.,22.0
+119,Spicy Buffalo Wings,8 Pc.,6.99
+120,Spicy Buffalo Wings,16 Pc.,13.98
+121,Spicy Buffalo Wings,24 Pc.,19.97
+122,Spicy Buffalo Wings,32 Pc.,24.96
+123,Spicy Buffalo Wings,50 Pc.,37.49
+124,BBQ Wings,8 Pc.,6.99
+125,BBQ Wings,16 Pc.,13.98
+126,BBQ Wings,24 Pc.,19.97
+127,BBQ Wings,32 Pc.,24.96
+128,BBQ Wings,50 Pc.,37.49
+129,Honey Chipotle Wings,8 Pc.,6.99
+130,Honey Chipotle Wings,16 Pc.,13.98
+131,Honey Chipotle Wings,24 Pc.,19.97
+132,Honey Chipotle Wings,32 Pc.,24.96
+133,Honey Chipotle Wings,50 Pc.,37.49
+134,Unsauced Wings,8 Pc.,6.99
+135,Unsauced Wings,16 Pc.,13.98
+136,Unsauced Wings,24 Pc.,19.97
+137,Unsauced Wings,32 Pc.,24.96
+138,Unsauced Wings,50 Pc.,37.49
+139,Sriracha Wings,8 Pc.,6.99
+140,Sriracha Wings,16 Pc.,13.98
+141,Sriracha Wings,24 Pc.,19.97
+142,Sriracha Wings,32 pc.,24.96
+143,Sriracha Wings,50 Pc.,37.49
+144,Pepsi,20 oz.,1.59
+145,Pepsi,2 Liter,2.69
+146,Diet Pepsi,20 oz.,1.59
+147,Diet Pepsi,2 Liter,2.69
+148,Mountain Dew,20 oz.,1.59
+149,Mountain Dew,2 Liter,2.69
+150,Dr. Pepper,20 oz.,1.59
+151,Dr. Pepper,2 Liter,2.69
+152,Orange Crush,20 oz.,1.59
+153,Orange Crush,2 Liter,2.69
+154,Sierra Mist,20 oz.,1.59
+155,Sierra Mist,2 Liter,2.69
+156,Aquafina,20 oz.,1.59
+157,Cinnamon Knots,,5.0
+158,Double ChocChip Brownie,,6.0
+159,Cinnapie,,4.5
+160,Cinnapie Extra Icing,,5.25
+161,Family Chocolate Chip Cookie,,6.0
+162,Chocolate Chip Cookie Icing,,6.75
+163,Brookie,,6.0
+164,Special Garlic,,0.75
+165,Barbeque,,0.75
+166,Blue Cheese,,0.75
+167,Buffalo,,0.75
+168,Cheese,,0.75
+169,Honey Mustard,,0.75
+170,Pizza,,0.75
+171,Ranch,,0.75
+172,Pepperoncini,,0.75
+173,Jalapeño Peppers,,0.75
+174,Crushed Red Pepper,,0.0
+175,Special Seasonings,,0.5
+176,Banana Peppers,,0.75
+177,Anchovies,,0.75

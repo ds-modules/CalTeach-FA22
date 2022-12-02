@@ -1,0 +1,94 @@
+,food,size,price
+1,Build Your Own Pizza,"Small (10"")",9.3
+2,Build Your Own Pizza,"Medium (12"")",11.6
+3,Build Your Own Pizza,"Large (14"")",14.45
+4,Build Your Own Pizza,"X Large (16"")",17.35
+5,Deluxe Pizza,"Small (10"")",12.7
+6,Deluxe Pizza,"Medium (12"")",16.2
+7,Deluxe Pizza,"Large (14"")",19.95
+8,Deluxe Pizza,"X Large (16"")",23.85
+9,Veggie Pizza,"Small (10"")",12.7
+10,Veggie Pizza,"Medium (12"")",16.2
+11,Veggie Pizza,"Large (14"")",19.95
+12,Veggie Pizza,"X Large (16"")",23.85
+13,Cheese Pizza,"Small (10"")",9.3
+14,Cheese Pizza,"Medium (12"")",11.6
+15,Cheese Pizza,"Large (14"")",14.45
+16,Cheese Pizza,"X Large (16"")",17.35
+17,All Meat Pizza,"Small (10"")",12.7
+18,All Meat Pizza,"Medium (12"")",16.2
+19,All Meat Pizza,"Large (14"")",19.95
+20,All Meat Pizza,"X Large (16"")",23.85
+21,BBQ Chicken Pizza,"Small (10"")",12.7
+22,BBQ Chicken Pizza,"Medium (12"")",16.2
+23,BBQ Chicken Pizza,"Large (14"")",19.2
+24,BBQ Chicken Pizza,"X Large (16"")",23.85
+25,Egg-Ceptional Pizza,"Small (10"")",11.8
+26,Egg-Ceptional Pizza,"Medium (12"")",14.95
+27,Egg-Ceptional Pizza,"Large (14"")",18.65
+28,Egg-Ceptional Pizza,"X Large (16"")",22.3
+30,Garlic Bread,,2.95
+31,Garlic Cheese Bread,,3.95
+32,Breadsticks,,3.45
+33,Toasted Ravioli,10 Pc.,6.25
+34,Toasted Ravioli,30 Pc.,16.95
+35,Provel Cheese Bites,12 Pc.,4.25
+36,Provel Cheese Bites,20 Pc.,6.25
+37,Mozzarella Cheese Sticks,8 Pc.,6.25
+38,"Chicken Wings (Hot, BBQ, Hot Mustard, or Sweet & Tangy)",8 Pc.,8.95
+39,"Chicken Wings (Hot, BBQ, Hot Mustard, or Sweet & Tangy)",24 Pc.,22.95
+40,Boneless Wings,8 Pc.,7.25
+41,Boneless Wings,24 Pc.,20.95
+42,Chicken Tenders,Small,6.95
+43,Chicken Tenders,Large,17.95
+44,Fries,,2.95
+46,House Salad,Half (Side),3.25
+47,House Salad,Whole (Meal),5.95
+48,House Salad,Half Party Pan,17.95
+49,Deluxe Salad,Half (Side),3.95
+50,Deluxe Salad,Whole (Meal),6.45
+51,Deluxe Salad,Half Party Pan,19.95
+52,Chef Salad,Half (Side),3.95
+53,Chef Salad,Whole (Meal),6.95
+54,Chef Salad,Half Party Pan,24.95
+55,Caesar Salad,Half (Side),3.25
+56,Caesar Salad,Whole (Meal),5.5
+57,Chicken Caesar Salad,Half (Side),3.95
+58,Chicken Caesar Salad,Whole (Meal),7.25
+60,Baked Lasagna,,7.45
+61,Baked Mostaccioli,,6.95
+62,Spaghetti,,6.95
+63,Mostaccioli,,6.95
+64,Spaghetti with Meatballs,,6.95
+65,Mostaccioli with Meatballs,,6.95
+66,Cannelloni,Regular (2 Pc.),6.95
+67,Cannelloni,Large (3 Pc.),9.25
+68,Imo's Meatballs,1 Pc.,1.4
+69,Imo's Meatballs,2 Pc.,2.8
+70,Imo's Meatballs,3 Pc.,4.2
+71,Imo's Meatballs,4 Pc.,5.6
+73,Imo's Extra Special Sandwich,,6.65
+74,Roast Beef Sandwich,,6.65
+75,Turkey Club Sandwich,,6.65
+76,Salami Sandwich,,6.65
+77,Ham Sandwich,,6.65
+78,Meatball Sandwich,,6.65
+79,Salsiccia Sandwich,,6.65
+80,Veggie Sandwich,,6.65
+81,BLT Sandwich,,6.65
+82,Crispy Chicken Sandwich,,6.65
+83,Turkey Sandwich,,6.65
+85,Kids Pizza,,5.5
+86,Kids Toasted Ravioli,,5.5
+87,Kids Chicken Tenders,,5.5
+89,CinnImos,,2.95
+90,Apple Crisp,,1.95
+91,Cheesecake,,2.95
+93,Imo's Italian Dressing,Bottle,2.95
+94,Imo's Vinaigrette Dressing,Bottle,2.95
+96,Fountain Drink,16 oz.,1.5
+97,Fountain Drink,32 oz.,1.95
+98,Soft Drink,20 oz. Bottle,1.75
+99,Soft Drink,2 Liter Bottle,2.95
+100,Water,Bottle,1.5
+101,"Apple, Fruit Punch or Verry Berry Juice Box",,0.75

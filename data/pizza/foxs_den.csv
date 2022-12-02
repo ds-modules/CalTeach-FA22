@@ -1,0 +1,57 @@
+,food,size,price
+1,One Topping Pizza (4-Cut),Small,8.39
+2,One Topping Pizza (8-Cut),Medium,12.99
+3,One Topping Pizza (10-Cut),Large,14.99
+4,One Topping Pizza (12-Cut),X-Large,17.49
+5,One Topping Pizza (21-Cut),Big Daddy,20.99
+6,One Topping Pizza (52-Cut),The BIG One!,44.99
+7,Each Topping for Small Pizza,,1.3
+8,Each Topping for Medium Pizza,,1.9
+9,Each Topping for Large Pizza,,2.0
+10,Each Topping for X-Large Pizza,,2.4
+11,Each Topping for Big Daddy Rectangle Pizza,,2.5
+12,Each Topping for The Big One Pizza,,5.0
+15,Two Pizzas,Small,14.49
+16,Two Pizzas,Medium,19.59
+17,Two Pizzas,Large,22.59
+18,Two Pizzas,X-Large,25.99
+19,Two Pizzas,Big Daddy,30.99
+20,Two Pizzas,The BIG One!,77.99
+22,Gourmet Pizza,Small,10.39
+23,Gourmet Pizza,Medium,15.99
+24,Gourmet Pizza,Large,18.99
+25,Gourmet Pizza,X-Large,21.49
+26,Gourmet Pizza,Big Daddy,25.99
+27,Gourmet Pizza,The BIG One!,59.99
+29,Hoagie,6 1/2 in.,5.49
+30,Hoagie,13 in.,9.49
+31,Wedgie,,8.49
+33,Wing Ditties & Boneless Wings,1/2 Dozen,5.49
+34,Wing Ditties & Boneless Wings,Dozen,8.49
+35,Wing Ditties & Boneless Wings,4 Dozen,29.99
+36,Wing Ditties & Boneless Wings,8 Dozen,55.99
+37,Ranch or Blue Cheese,,0.79
+38,Bread Sticks,,4.99
+39,Bread Sticks with Cheese,,5.99
+40,Pepperoni Bites,,6.99
+41,Toasted Ravioli,1/2 Dozen,5.49
+42,Toasted Ravioli,Dozen,6.99
+43,Potate Wedge Fries,,2.29
+45,Tossed Salad,,5.39
+46,Chef Salad,,6.39
+47,Chicken Fry Salad,,7.29
+48,Steak Fry Salad,,7.29
+49,Buffalo Chicken Salad,,7.29
+50,Taco Salad,,7.29
+51,Chicken Taco Salad,,7.29
+52,Southwest Chicken Salad,,7.29
+53,Banquet Salad,Small,23.99
+54,Banquet Salad,Large,34.99
+56,Stromboli,Small,8.39
+57,Stromboli,Medium,12.99
+58,Stromboli,Large,14.99
+59,Stromboli,X-Large,17.49
+60,Side of Sauce,,0.79
+62,New York Style Cheesecake,,2.99
+63,Chocolate Chip Cookie,,1.19
+64,Cinnamon Sticks,,5.49

@@ -1,0 +1,134 @@
+,food,size,price
+1,Build your Own Za (Hand Tossed & Thin Crust),MyZa,8.99
+2,Build your Own Za (TallBoy Crust),MyZa,9.99
+3,Build your Own Za (Hand Tossed & Thin Crust),Medium,12.99
+4,Build your Own Za (TallBoy Crust),Medium,13.99
+5,Build your Own Za (Hand Tossed & Thin Crust),Large,14.99
+6,Build your Own Za (TallBoy Crust),Large,15.99
+7,Build your Own Za (Hand Tossed Crust),Party,16.99
+8,Meat Topper (Hand Tossed & Thin Crust),MyZa,9.99
+9,Meat Topper (TallBoy Crust),MaZa,10.99
+10,Meat Topper (Hand Tossed & Thin Crust),Medium,15.99
+11,Meat Topper (TallBoy Crust),Medium,16.99
+12,Meat Topper (Hand Tossed & Thin Crust),Large,18.99
+13,Meat Topper (TallBoy Crust),Large,19.99
+14,Meat Topper (Hand Tossed Crust),Party,21.99
+15,Buffalo Chicken (Hand Tossed & Thin Crust),MyZa,9.99
+16,Buffalo Chicken (TallBoy Crust),MyZa,10.99
+17,Buffalo Chicken (Hand Tossed & Thin Crust),Medium,15.99
+18,Buffalo Chicken (TallBoy Crust),Medium,16.99
+19,Buffalo Chicken (Hand Tossed & Thin Crust),Large,18.99
+20,Buffalo Chicken (TallBoy Crust),Large,19.99
+21,Buffalo Chicken (Hand Tossed Crust),Party,21.99
+22,Toppers Classic (Hand Tossed & Thin Crust),MyZa,9.99
+23,Toppers Classic (TallBoy Crust),MyZa,10.99
+24,Toppers Classic (Hand Tossed & Thin Crust),Medium,15.99
+25,Toppers Classic (TallBoy Crust),Medium,16.99
+26,Toppers Classic (Hand Tossed & Thin Crust),Large,18.99
+27,Toppers Classic (TallBoy Crust),Large,19.99
+28,Toppers Classic (Hand Tossed Crust),Party,21.99
+29,Loaded Tot-zza (Hand Tossed & Thin Crust),MyZa,9.99
+30,Loaded Tot-zza (TallBoy Crust),MyZa,10.99
+31,Loaded Tot-zza (Hand Tossed & Thin Crust),Medium,15.99
+32,Loaded Tot-zza (TallBoy Crust),Medium,16.99
+33,Loaded Tot-zza (Hand Tossed & Thin Crust),Large,18.99
+34,Loaded Tot-zza (TallBoy Crust),Large,19.99
+35,Loaded Tot-zza (Hand Tossed Crust),Party,21.99
+36,Mac 'n Cheese (Hand Tossed & Thin Crust),MyZa,9.99
+37,Mac 'n Cheese (TallBoy Crust),MyZa,10.99
+38,Mac 'n Cheese (Hand Tossed & Thin Crust),Medium,15.99
+39,Mac 'n Cheese (TallBoy Crust),Medium,16.99
+40,Mac 'n Cheese (Hand Tossed & Thin Crust),Large,18.99
+41,Mac 'n Cheese (TallBoy Crust),Large,19.99
+42,Mac 'n Cheese (Hand Tossed Crust),Party,21.99
+43,Old School Sausage & Pepperoni (Hand Tossed & Thin Crust),MyZa,9.99
+44,Old School Sausage & Pepperoni (TallBoy Crust),MyZa,10.99
+45,Old School Sausage & Pepperoni (Hand Tossed & Thin Crust),Medium,15.99
+46,Old School Sausage & Pepperoni (TallBoy Crust),Medium,16.99
+47,Old School Sausage & Pepperoni (Hand Tossed & Thin Crust),Large,18.99
+48,Old School Sausage & Pepperoni (TallBoy Crust),Large,19.99
+49,Old School Sausage & Pepperoni (Hand Tossed Crust),Party,21.99
+50,Taco Topper (Hand Tossed & Thin Crust),MyZa,9.99
+51,Taco Topper (TallBoy Crust),MyZa,10.99
+52,Taco Topper (Hand Tossed & Thin Crust),Medium,15.99
+53,Taco Topper (TallBoy Crust),Medium,16.99
+54,Taco Topper (Hand Tossed & Thin Crust),Large,18.99
+55,Taco Topper (TallBoy Crust),Large,19.99
+56,Taco Topper (Hand Tossed Crust),Party,21.99
+57,Big Topper (Hand Tossed & Thin Crust),MyZa,9.99
+58,Big Topper (TallBoy Crust),MyZa,10.99
+59,Big Topper (Hand Tossed & Thin Crust),Medium,15.99
+60,Big Topper (TallBoy Crust),Medium,16.99
+61,Big Topper (Hand Tossed & Thin Crust),Large,18.99
+62,Big Topper (TallBoy Crust),Large,19.99
+63,Big Topper (Hand Tossed Crust),Party,21.99
+64,Three Little Pigs (Hand Tossed & Thin Crust),MyZa,9.99
+65,Three Little Pigs (TallBoy Crust),MyZa,10.99
+66,Three Little Pigs (Hand Tossed & Thin Crust),Medium,15.99
+67,Three Little Pigs (TallBoy Crust),Medium,16.99
+68,Three Little Pigs (Hand Tossed & Thin Crust),Large,18.99
+69,Three Little Pigs (TallBoy Crust),Large,19.99
+70,Three Little Pigs (Hand Tossed Crust),Party,21.99
+71,Smoky BBQ Chicken (Hand Tossed & Thin Crust),MyZa,9.99
+72,Smoky BBQ Chicken (TallBoy Crust),MyZa,10.99
+73,Smoky BBQ Chicken (Hand Tossed & Thin Crust),Medium,15.99
+74,Smoky BBQ Chicken (TallBoy Crust),Medium,16.99
+75,Smoky BBQ Chicken (Hand Tossed & Thin Crust),Large,18.99
+76,Smoky BBQ Chicken (TallBoy Crust),Large,19.99
+77,Smoky BBQ Chicken (Hand Tossed Crust),Party,21.99
+78,Maui Topper (Hand Tossed & Thin Crust),MyZa,9.99
+79,Maui Topper (TallBoy Crust),MyZa,10.99
+80,Maui Topper (Hand Tossed & Thin Crust),Medium,15.99
+81,Maui Topper (TallBoy Crust),Medium,16.99
+82,Maui Topper (Hand Tossed & Thin Crust),Large,18.99
+83,Maui Topper (TallBoy Crust),Large,19.99
+84,Maui Topper (Hand Tossed Crust),Party,21.99
+85,Cool C-B-R (Hand Tossed & Thin Crust),MyZa,9.99
+86,Cool C-B-R (TallBoy Crust),MyZa,10.99
+87,Cool C-B-R (Hand Tossed & Thin Crust),Medium,15.99
+88,Cool C-B-R (TallBoy Crust),Medium,16.99
+89,Cool C-B-R (Hand Tossed & Thin Crust),Large,18.99
+90,Cool C-B-R (TallBoy Crust),Large,19.99
+91,Cool C-B-R (Hand Tossed Crust),Party,21.99
+92,Veggie Classic (Hand Tossed & Thin Crust),MyZa,9.99
+93,Veggie Classic (TallBoy Crust),MyZa,10.99
+94,Veggie Classic (Hand Tossed & Thin Crust),Medium,15.99
+95,Veggie Classic (TallBoy Crust),Medium,16.99
+96,Veggie Classic (Hand Tossed & Thin Crust),Large,18.99
+97,Veggie Classic (TallBoy Crust),Large,19.99
+98,Veggie Classic (Hand Tossed Crust),Party,21.99
+99,Chicken Tuscano Topper (Hand Tossed & Thin Crust),MyZa,9.99
+100,Chicken Tuscano Topper (TallBoy Crust),MyZa,10.99
+101,Chicken Tuscano Topper (Hand Tossed & Thin Crust),Medium,15.99
+102,Chicken Tuscano Topper (TallBoy Crust),Medium,16.99
+103,Chicken Tuscano Topper (Hand Tossed & Thin Crust),Large,18.99
+104,Chicken Tuscano Topper (TallBoy Crust),Large,19.99
+105,Chicken Tuscano Topper (Hand Tossed Crust),Party,21.99
+106,El Cubano (Hand Tossed & Thin Crust),MyZa,9.99
+107,El Cubano (TallBoy Crust),MyZa,10.99
+108,El Cubano (Hand Tossed & Thin Crust),Medium,15.99
+109,El Cubano (TallBoy Crust),Medium,16.99
+110,El Cubano (Hand Tossed & Thin Crust),Large,18.99
+111,El Cubano (TallBoy Crust),Large,19.99
+112,El Cubano (Hand Tossed Crust),Party,21.99
+113,California Topper (Hand Tossed & Thin Crust),MyZa,9.99
+114,California Topper (TallBoy Crust),MyZa,10.99
+115,California Topper (Hand Tossed & Thin Crust),Medium,15.99
+116,California Topper (TallBoy Crust),Medium,16.99
+117,California Topper (Hand Tossed & Thin Crust),Large,18.99
+118,California Topper (TallBoy Crust),Large,19.99
+119,California Topper (Hand Tossed Crust),Party,21.99
+121,Original Topperstix or Cinnamonstix,Single,7.49
+122,Original Topperstix or Cinnamonstix,Triple,12.99
+123,"Baconstix, Pepperonistix, Tacostix or Chocolate Baconstix",Single,8.49
+124,"Baconstix, Pepperonistix, Tacostix or Chocolate Baconstix",Triple,13.99
+127,Wings,10 Pc.,9.99
+128,Wings,15 Pc.,13.99
+129,Wings,25 Pc.,19.99
+132,Boneless Wings,1/2 lb.,9.99
+133,Boneless Wings,1 lb.,13.99
+134,Boneless Wings,1 1/2 lb.,19.99
+136,Dasani Water,20 oz. Bottle,1.99
+137,Soft Drink,20 oz. Bottle,1.99
+138,Soft Drink,2 Liter Bottle,2.99
+141,Dippin' Sauce,,0.79

@@ -1,0 +1,190 @@
+,food,size,price
+1,Cheese (Original Crust),Mini,4.99
+2,Cheese (Original or Golden Crust),Small,10.99
+3,"Cheese (Original, Golden or Thin Crust)",Medium,12.99
+4,Cheese (Mozza-Loaded Crust),Medium,13.49
+5,"Cheese (Original, Golden or Thin Crust)",Large,15.99
+6,Cheese (Mozza-Loaded Crust),Large,16.49
+7,Cheese (Original or Thin Crust),Jumbo,18.99
+9,All-Meat Combo Pizza (Original Crust),Mini,5.99
+10,All-Meat Combo Pizza (Original or Golden Crust),Small,15.99
+11,"All-Meat Combo Pizza (Original, Golden or Thin Crust)",Medium,19.99
+12,All-Meat Combo Pizza (Mozza-Loaded Crust),Medium,22.24
+13,"All-Meat Combo Pizza (Original, Golden or Thin Crust)",Large,23.99
+14,All-Meat Combo Pizza (Mozza-Loaded Crust),Large,26.23
+15,All-Meat Combo Pizza (Original or Thin Crust),Jumbo,27.99
+16,Bacon Cheeseburger Pizza (Original Crust),Mini,5.99
+17,Bacon Cheeseburger Pizza (Original or Golden Crust),Small,15.99
+18,"Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Medium,19.99
+19,Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Medium,22.24
+20,"Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Large,23.99
+21,Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Large,26.23
+22,Bacon Cheeseburger Pizza (Original or Thin Crust),Jumbo,27.99
+23,Taco Pie Pizza (Original Crust),Mini,5.99
+24,Taco Pie Pizza (Original or Golden Crust),Small,15.99
+25,"Taco Pie Pizza (Original, Golden or Thin Crust)",Medium,19.99
+26,Taco Pie Pizza (Mozza-Loaded Crust),Medium,22.24
+27,"Taco Pie Pizza (Original, Golden or Thin Crust)",Large,23.99
+28,Taco Pie Pizza (Mozza-Loaded Crust),Large,26.23
+29,Taco Pie Pizza (Original or Thin Crust),Jumbo,27.99
+30,Classic Combo Pizza (Original Crust),Mini,5.99
+31,Classic Combo Pizza (Original or Golden Crust),Small,15.99
+32,"Classic Combo Pizza (Original, Golden or Thin Crust)",Medium,19.99
+33,Classic Combo Pizza (Mozza-Loaded Crust),Medium,22.24
+34,"Classic Combo Pizza (Original, Golden or Thin Crust)",Large,23.99
+35,Classic Combo Pizza (Mozza-Loaded Crust),Large,26.23
+36,Classic Combo Pizza (Original or Thin Crust),Jumbo,27.99
+37,Humble Pie Pizza (Original Crust),Mini,5.99
+38,Humble Pie Pizza (Original or Golden Crust),Small,15.99
+39,"Humble Pie Pizza (Original, Golden or Thin Crust)",Medium,19.99
+40,Humble Pie Pizza (Mozza-Loaded Crust),Medium,22.24
+41,"Humble Pie Pizza (Original, Golden or Thin Crust)",Large,23.99
+42,Humble Pie Pizza (Mozza-Loaded Crust),Large,26.23
+43,Humble Pie Pizza (Original or Thin Crust),Jumbo,27.99
+44,Veggie Pie Pizza (Original Crust),Mini,5.99
+45,Veggie Pie Pizza (Original or Golden Crust),Small,15.99
+46,"Veggie Pie Pizza (Original, Golden or Thin Crust)",Medium,19.99
+47,Veggie Pie Pizza (Mozza-Loaded Crust),Medium,22.24
+48,"Veggie Pie Pizza (Original, Golden or Thin Crust)",Large,23.99
+49,Veggie Pie Pizza (Mozza-Loaded Crust),Large,26.23
+50,Veggie Pie Pizza (Original or Thin Crust),Jumbo,27.99
+51,Hot Stuff Pizza (Original Crust),Mini,5.99
+52,Hot Stuff Pizza (Original or Golden Crust),Small,15.99
+53,"Hot Stuff Pizza (Original, Golden or Thin Crust)",Medium,19.99
+54,Hot Stuff Pizza (Mozza-Loaded Crust),Medium,22.24
+55,"Hot Stuff Pizza (Original, Golden or Thin Crust)",Large,23.99
+56,Hot Stuff Pizza (Mozza-Loaded Crust),Large,26.23
+57,Hot Stuff Pizza (Original or Thin Crust),Jumbo,27.99
+58,Hawaiian Pizza (Original Crust),Mini,5.99
+59,Hawaiian Pizza (Original or Golden Crust),Small,15.99
+60,"Hawaiian Pizza (Original, Golden or Thin Crust)",Medium,19.99
+61,Hawaiian Pizza (Mozza-Loaded Crust),Medium,22.24
+62,"Hawaiian Pizza (Original, Golden or Thin Crust)",Large,23.99
+63,Hawaiian Pizza (Mozza-Loaded Crust),Large,26.23
+64,Hawaiian Pizza (Original or Thin Crust),Jumbo,27.99
+65,BLT Pizza (Original Crust),Mini,5.99
+66,BLT Pizza (Original or Golden Crust),Small,15.99
+67,"BLT Pizza (Original, Golden or Thin Crust)",Medium,19.99
+68,BLT Pizza (Mozza-Loaded Crust),Medium,22.24
+69,"BLT Pizza (Original, Golden or Thin Crust)",Large,23.99
+70,BLT Pizza (Mozza-Loaded Crust),Large,26.23
+71,BLT Pizza (Original or Thin Crust),Jumbo,27.99
+72,Buffalo Chicken Pizza (Original Crust),Mini,5.99
+73,Buffalo Chicken Pizza (Original or Golden Crust),Small,15.99
+74,"Buffalo Chicken Pizza (Original, Golden or Thin Crust)",Medium,19.99
+75,Buffalo Chicken Pizza (Mozza-Loaded Crust),Medium,22.24
+76,"Buffalo Chicken Pizza (Original, Golden or Thin Crust)",Large,23.99
+77,Buffalo Chicken Pizza (Mozza-Loaded Crust),Large,26.23
+78,Buffalo Chicken Pizza (Original or Thin Crust),Jumbo,27.99
+79,Super Combo Pizza (Original or Golden Crust),Small,16.99
+80,"Super Combo Pizza (Original, Golden or Thin Crust)",Medium,21.99
+81,Super Combo Pizza (Mozza-Loaded Crust),Medium,22.49
+82,"Super Combo Pizza (Original, Golden or Thin Crust)",Large,25.99
+83,Super Combo Pizza (Mozza-Loaded Crust),Large,26.49
+84,Super Combo Pizza (Original or Thin Crust),Jumbo,29.99
+85,Super Hawaiian Pizza (Original or Golden Crust),Small,16.99
+86,"Super Hawaiian Pizza (Original, Golden or Thin Crust)",Medium,21.99
+87,Super Hawaiian Pizza (Mozza-Loaded Crust),Medium,22.49
+88,"Super Hawaiian Pizza (Original, Golden or Thin Crust)",Large,25.99
+89,Super Hawaiian Pizza (Mozza-Loaded Crust),Large,26.49
+90,Super Hawaiian Pizza (Original or Thin Crust),Jumbo,29.99
+91,Super Taco Pizza (Original or Golden Crust),Small,16.99
+92,"Super Taco Pizza (Original, Golden or Thin Crust)",Medium,21.99
+93,Super Taco Pizza (Mozza-Loaded Crust),Medium,22.49
+94,"Super Taco Pizza (Original, Golden or Thin Crust)",Large,25.99
+95,Super Taco Pizza (Mozza-Loaded Crust),Large,26.49
+96,Super Taco Pizza (Original or Thin Crust),Jumbo,29.99
+97,The Don (Original or Golden Crust),Small,16.99
+98,"The Don (Original, Golden or Thin Crust)",Medium,21.99
+99,The Don (Mozza-Loaded Crust),Medium,22.49
+100,"The Don (Original, Golden or Thin Crust)",Large,25.99
+101,The Don (Mozza-Loaded Crust),Large,26.49
+102,The Don (Original or Thin Crust),Jumbo,29.99
+103,Super Veggie Pizza (Original or Golden Crust),Small,15.99
+104,"Super Veggie Pizza (Original, Golden or Thin Crust)",Medium,20.99
+105,Super Veggie Pizza (Mozza-Loaded Crust),Medium,22.49
+106,"Super Veggie Pizza (Original, Golden or Thin Crust)",Large,24.99
+107,Super Veggie Pizza (Mozza-Loaded Crust),Large,26.49
+108,Super Veggie Pizza (Original or Thin Crust),Jumbo,28.99
+109,BBQ Bacon Cheeseburger Pizza (Original Crust),Mini,5.99
+110,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Small,15.99
+111,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Medium,19.99
+112,BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Medium,22.24
+113,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Large,23.99
+114,BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust),Large,26.23
+115,"BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",Jumbo,27.99
+116,Chipotle Chicken and Bacon Pizza (Original Crust),Mini,5.99
+117,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Small,15.99
+118,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Medium,19.99
+119,Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust),Medium,22.24
+120,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Large,23.99
+121,Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust),Large,26.23
+122,"Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",Jumbo,27.99
+123,"Margherita Pizza (Original, Golden or Thin Crust)",Medium,9.99
+124,Margherita Pizza (Thin Crust),Large,13.99
+125,"Margherita Chicken Pizza (Original, Golden or Thin Crust)",Medium,11.99
+126,Margherita Chicken Pizza (Thin Crust),Large,15.99
+129,Gluten-Free Cheese Pizza,,11.99
+130,Gluten-Free Beef Pizza,,12.99
+131,Gluten-Free Pepperoni Pizza,,12.99
+132,Gluten-Free Sausage Pizza,,12.99
+133,Gluten-Free Classic Combo Pizza,,15.99
+134,Gluten-Free Meat Combo Pizza,,15.99
+137,Thin Crust,Medium,19.99
+138,Thin Crust,Large,23.99
+141,Any Calzone,,6.99
+144,Original Crust,Mini,4.99
+145,Original or Golden Crust,Small,12.69
+146,"Original, Golden or Thin Crust",Medium,15.34
+147,Mozza-Loaded Crust,Medium,15.24
+148,"Original, Golden or Thin Crust",Large,18.69
+149,Mozza-Loaded Crust,Large,18.74
+150,Original or Thin Crust,Jumbo,21.99
+153,Original Crust,Mini,4.99
+154,Original or Golden Crust,Small,14.39
+155,"Original, Golden or Thin Crust",Medium,17.69
+156,Mozza-Loaded Crust,Medium,16.99
+157,"Original, Golden or Thin Crust",Large,21.39
+158,Mozza-Loaded Crust,Large,20.99
+159,Original or Thin Crust,Jumbo,24.99
+161,Jumbo Chicken Bites,Half Pound,5.59
+162,Jumbo Chicken Bites,1 Pound,8.19
+163,Potato Wedges,16 oz.,4.99
+164,Garden Salad,,3.49
+165,Extra Dressing,,0.5
+168,Bone In or Bone Out Wings,Small,6.99
+169,Bone In or Bone Out Wings,Medium,9.99
+171,Breadsticks,,4.99
+172,Cheesesticks,Small,4.99
+173,Cheesesticks,Medium,5.99
+174,Cheesesticks,Large,7.99
+175,Super Sticks,Small,5.99
+176,Super Sticks,Medium,6.99
+177,Super Sticks,Large,8.99
+178,Garlic Bread,,3.99
+179,Garlic Cheese Bread,,4.99
+180,Italian Monkey Bread,,5.99
+182,Cherry Cheesecake or Caramel Apple Streusel,Small,4.99
+183,Cherry Cheesecake or Caramel Apple Streusel,Medium,6.49
+184,Cherry Cheesecake or Caramel Apple Streusel,Large,7.99
+185,"Cinnamon, Apple or Cherry Streusel",Small,5.99
+186,"Cinnamon, Apple or Cherry Streusel",Medium,6.99
+187,"Cinnamon, Apple or Cherry Streusel",Large,9.99
+188,Strawberry Lemonade Streusel,Small,3.99
+189,Cinnamon Monkey Bread,,5.99
+190,Streusel Monkey Bread,,4.99
+191,Caramel Monkey Bread,,5.99
+192,Chocolate Chip Cookie,,5.99
+193,Monkey Bread with M&M MINIs,Small,5.99
+195,Soda,2 Liter Bottle,2.49
+196,Fountain Soda,Regular,1.99
+197,Fountain Soda,Large,2.19
+199,Any Mini Pizza & 1 Side,,6.99
+200,Any Small Pizza & 1 Side,,12.99
+201,Any Medium 1- Topping Pizza & 1 Side,,12.99
+202,Large 2-Toppings Pizza & 1 Side,,16.99
+203,Any Medium Specialty Pizza & 1 Side,,16.99
+204,Any Large Specialty Pizza & 2 Sides,,22.99
+205,"Small Specialty Pizza, Medium 1-Topping Pizza & 2 Sides",,22.99
+206,"Medium Specialty Pizza, Medium 1-Topping Pizza & 2 Sides",,27.99
+207,Jumbo 2-Toppings Pizza & 2 Sides,,27.99

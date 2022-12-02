@@ -1,0 +1,174 @@
+,food,size,price
+0,Hand-Tossed,Medium,8.49
+1,Hand-Tossed,Large,10.49
+2,Pan Pizza,Personal,4.29
+3,Pan Pizza,Medium,8.49
+4,Pan Pizza,Large,10.49
+5,Thin N Crispy,Medium,8.49
+6,Thin N Crispy,Large,10.49
+7,Stuffed Crust,Large,12.49
+8,Skinny Slice,Large,10.49
+9,Pepperoni Lover's Pizza (Hand-Tossed),Medium,12.49
+10,Pepperoni Lover's Pizza (Hand-Tossed),Large,15.49
+11,Pepperoni Lover's Pizza (Pan Pizza),Personal,4.79
+12,Pepperoni Lover's Pizza (Pan Pizza),Medium,12.49
+13,Pepperoni Lover's Pizza (Pan Pizza),Large,15.49
+14,Pepperoni Lover's Pizza (Thin N Crispy),Medium,12.49
+15,Pepperoni Lover's Pizza (Thin N Crispy),Large,15.49
+16,Pepperoni Lover's Pizza (Stuffed Crust),Large,17.49
+17,Pepperoni Lover's Pizza (Skinny Slice),Large,15.49
+18,Meat Lover's Pizza (Hand-Tossed),Medium,12.49
+19,Meat Lover's Pizza (Hand-Tossed),Large,15.49
+20,Meat Lover's Pizza (Pan Pizza),Personal,4.79
+21,Meat Lover's Pizza (Pan Pizza),Medium,12.49
+22,Meat Lover's Pizza (Pan Pizza),Large,15.49
+23,Meat Lover's Pizza (Thin N Crispy),Medium,12.49
+24,Meat Lover's Pizza (Thin N Crispy),Large,15.49
+25,Meat Lover's Pizza (Stuffed Crust),Large,17.49
+26,Meat Lover's Pizza (Skinny Slice),Large,15.49
+27,Ultimate Cheese Lover's Pizza (Hand-Tossed),Medium,12.49
+28,Ultimate Cheese Lover's Pizza (Hand-Tossed),Large,15.49
+29,Ultimate Cheese Lover's Pizza (Pan Pizza),Personal,4.79
+30,Ultimate Cheese Lover's Pizza (Pan Pizza),Medium,12.49
+31,Ultimate Cheese Lover's Pizza (Pan Pizza),Large,15.49
+32,Ultimate Cheese Lover's Pizza (Thin N Crispy),Medium,12.49
+33,Ultimate Cheese Lover's Pizza (Thin N Crispy),Large,15.49
+34,Ultimate Cheese Lover's Pizza (Stuffed Crust),Large,17.49
+35,Ultimate Cheese Lover's Pizza (Skinny Slice),Large,15.49
+36,Veggie Lover's Pizza (Hand-Tossed),Medium,12.49
+37,Veggie Lover's Pizza (Hand-Tossed),Large,15.49
+38,Veggie Lover's Pizza (Pan Pizza),Personal,4.79
+39,Veggie Lover's Pizza (Pan Pizza),Medium,12.49
+40,Veggie Lover's Pizza (Pan Pizza),Large,15.49
+41,Veggie Lover's Pizza (Thin N Crispy),Medium,12.49
+42,Veggie Lover's Pizza (Thin N Crispy),Large,15.49
+43,Veggie Lover's Pizza (Stuffed Crust),Large,17.49
+44,Veggie Lover's Pizza (Skinny Slice),Large,15.49
+45,Supreme Pizza (Hand-Tossed),Medium,12.49
+46,Supreme Pizza (Hand-Tossed),Large,15.49
+47,Supreme Pizza (Pan Pizza),Personal,4.79
+48,Supreme Pizza (Pan Pizza),Medium,12.49
+49,Supreme Pizza (Pan Pizza),Large,15.49
+50,Supreme Pizza (Thin N Crispy),Medium,12.49
+51,Supreme Pizza (Thin N Crispy),Large,15.49
+52,Supreme Pizza (Stuffed Crust),Large,17.49
+53,Supreme Pizza (Skinny Slice),Large,15.49
+54,BBQ Lover's™ (Hand-Tossed),Medium,12.49
+55,BBQ Lover's™ (Hand-Tossed),Large,15.49
+56,BBQ Lover's™ (Pan Pizza),Personal,4.79
+57,BBQ Lover's™ (Pan Pizza),Medium,12.49
+58,BBQ Lover's™ (Pan Pizza),Large,15.49
+59,BBQ Lover's™ (Thin N Crispy),Medium,12.49
+60,BBQ Lover's™ (Thin N Crispy),Large,15.49
+61,BBQ Lover's™ (Stuffed Crust),Large,17.49
+62,BBQ Lover's™ (Skinny Slice),Large,15.49
+63,Chicken Supreme Pizza (Hand-Tossed),Medium,13.49
+64,Chicken Supreme Pizza (Hand-Tossed),Large,16.49
+65,Chicken Supreme Pizza (Pan Pizza),Personal,5.29
+66,Chicken Supreme Pizza (Pan Pizza),Medium,13.49
+67,Chicken Supreme Pizza (Pan Pizza),Large,16.49
+68,Chicken Supreme Pizza (Thin N Crispy),Medium,13.49
+69,Chicken Supreme Pizza (Thin N Crispy),Large,16.49
+70,Chicken Supreme Pizza (Stuffed Crust),Large,18.49
+71,Chicken Supreme Pizza (Skinny Slice),Large,16.49
+72,New Primo Meat Pizza (Hand-Tossed),Medium,12.49
+73,New Primo Meat Pizza (Hand-Tossed),Large,15.49
+74,New Primo Meat Pizza (Pan Pizza),Personal,4.79
+75,New Primo Meat Pizza (Pan Pizza),Medium,12.49
+76,New Primo Meat Pizza (Pan Pizza),Large,15.49
+77,New Primo Meat Pizza (Thin N Crispy),Medium,12.49
+78,New Primo Meat Pizza (Thin N Crispy),Large,15.49
+79,New Primo Meat Pizza (Stuffed Crust),Large,17.49
+80,New Primo Meat Pizza (Skinny Slice),Large,15.49
+81,Hawaiian Luau (Hand-Tossed),Medium,12.49
+82,Hawaiian Luau (Hand-Tossed),Large,15.49
+83,Hawaiian Luau (Pan Pizza),Personal,4.79
+84,Hawaiian Luau (Pan Pizza),Medium,12.49
+85,Hawaiian Luau (Pan Pizza),Large,15.49
+86,Hawaiian Luau (Thin N Crispy),Medium,12.49
+87,Hawaiian Luau (Thin N Crispy),Large,15.49
+88,Hawaiian Luau (Stuffed Crust),Large,17.49
+89,Hawaiian Luau (Skinny Slice),Large,15.49
+90,Super Supreme Pizza (Hand-Tossed),Medium,13.49
+91,Super Supreme Pizza (Hand-Tossed),Large,16.49
+92,Super Supreme Pizza (Pan Pizza),Personal,5.29
+93,Super Supreme Pizza (Pan Pizza),Medium,13.49
+94,Super Supreme Pizza (Pan Pizza),Large,16.49
+95,Super Supreme Pizza (Thin N Crispy),Medium,13.49
+96,Super Supreme Pizza (Thin N Crispy),Large,16.49
+97,Super Supreme Pizza (Stuffed Crust),Large,18.49
+98,Super Supreme Pizza (Skinny Slice),Large,16.49
+99,Garden Party™ (Thin N Crispy),Medium,12.49
+100,Garden Party™ (Thin N Crispy),Large,15.49
+101,Old Fashioned Meatbrawl™ (Pan Pizza),Personal,4.79
+102,Old Fashioned Meatbrawl™ (Pan Pizza),Medium,12.49
+103,Old Fashioned Meatbrawl™ (Pan Pizza),Large,15.49
+104,Cock-a-doodle Bacon™ (Hand-Tossed),Medium,12.49
+105,Cock-a-doodle Bacon™ (Hand-Tossed),Large,15.49
+106,Hot and Twisted™ (Hand-Tossed),Medium,12.49
+107,Hot and Twisted™ (Hand-Tossed),Large,15.49
+108,Pretzel Piggy™ (Hand-Tossed),Medium,12.49
+109,Pretzel Piggy™ (Hand-Tossed),Large,15.49
+110,BBQ Bacon Cheeseburger (Hand-Tossed),Medium,12.49
+111,BBQ Bacon Cheeseburger (Hand-Tossed),Large,15.49
+112,Giddy-Up BBQ Chicken™ (Hand-Tossed),Medium,12.49
+113,Giddy-Up BBQ Chicken™ (Hand-Tossed),Large,15.49
+114,Buffalo State of Mind™ (Hand-Tossed),Medium,12.49
+115,Buffalo State of Mind™ (Hand-Tossed),Large,15.49
+116,Cherry Pepper Bombshell™ (Thin N Crispy),Medium,12.49
+117,Cherry Pepper Bombshell™ (Thin N Crispy),Large,15.49
+118,7-Alarm Fire™ (Hand-Tossed),Medium,12.49
+119,7-Alarm Fire™ (Hand-Tossed),Large,15.49
+120,Skinny Beach™ (Skinny Slice),Large,15.49
+121,Skinny With A Kick™ (Skinny Slice),Large,15.49
+122,Skinny Italy (Skinny Slice),Large,15.49
+123,Skinny Luau™ (Skinny Slice),Large,15.49
+124,Skinny Club™ (Skinny Slice),Large,15.49
+125,Create Your Own (Gluten-Free Crust),Small,9.99
+126,Tuscani Chicken Alfredo with Breadsticks,,7.99
+127,Tuscani Chicken Alfredo with Cheesesticks,,8.99
+128,Tuscani Meaty Marinara with Breadsticks,,7.99
+129,Tuscani Meaty Marinara with Cheesesticks,,8.99
+130,,,
+131,,,
+132,,,
+133,,,
+134,,,
+135,,,
+136,,,
+137,,,
+138,,,
+139,,,
+140,,,
+141,,,
+142,Breadsticks,5 Pc.,4.29
+143,Cheese Sticks,5 Pc.,5.29
+144,,,
+145,Waffle Fries,,3.49
+146,Mozzarella Cheese Sticks,,4.49
+147,Jalapeños,,1.5
+148,HERSHEY'S Hot Chocolate Brownie,,6.99
+149,HERSHEY'S Triple Chocolate Brownie,9 Pc.,5.99
+150,The Ultimate HERSHEY’S Chocolate Chip Cookie,,5.99
+151,Hershey's Chocolate Dunkers,5 Pc.,5.49
+152,Cinnamon Sticks,5 Pc.,4.49
+153,Apple Pies,,4.99
+154,Blue Cheese,,0.6
+155,Chocolate,,0.6
+156,Ranch,,0.6
+157,Garlic,,0.6
+158,Marinara,,0.6
+159,Icing,,0.6
+160,Classic Sauce Set,4 Pc.,2.0
+161,Explore Sauce Set,5 Pc.,2.5
+163,Side of Banana Peppers,,1.0
+164,Parmesan Cheese Packet,,0.0
+165,Red Pepper Packet,,0.0
+166,Pepsi,Bottle,1.79
+167,Pepsi,2 Liter,2.99
+168,Diet Pepsi,Bottle,1.79
+169,Diet Pepsi,2 Liter,2.99
+170,Mountain Dew,Bottle,1.79
+171,Mountain Dew,2 Liter,2.99
+172,Aquafina,Bottle,1.49
+173,Dr. Pepper,2 Liter,2.99

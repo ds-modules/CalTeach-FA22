@@ -1,0 +1,62 @@
+,food,size,price
+1,"Build Your Own Pizza (Original, Pan or Ultra Thin)",Medium,9.99
+2,"Build Your Own Pizza (Original, Pan or Ultra Thin)",Large,11.99
+3,"Build Your Own Pizza (Original, Pan or Ultra Thin)",X-Large,13.99
+4,Chicago Classic (Original),Personal,4.29
+5,"Chicago Classic (Original, Pan or Ultra Thin)",Medium,14.29
+6,"Chicago Classic (Original, Pan or Ultra Thin)",Large,16.29
+7,"Chicago Classic (Original, Pan or Ultra Thin)",X-Large,18.29
+8,California Veggie (Original),Personal,4.29
+9,"California Veggie (Original, Pan or Ultra Thin)",Medium,14.29
+10,"California Veggie (Original, Pan or Ultra Thin)",Large,16.29
+11,"California Veggie (Original, Pan or Ultra Thin)",X-Large,18.29
+12,New York 3 Cheese (Original),Personal,4.49
+13,"New York 3 Cheese (Original, Pan or Ultra Thin)",Medium,14.29
+14,"New York 3 Cheese (Original, Pan or Ultra Thin)",Large,16.29
+15,"New York 3 Cheese (Original, Pan or Ultra Thin)",X-Large,18.29
+16,The Werx (Original),Personal,4.29
+17,"The Werx (Original, Pan or Ultra Thin)",Medium,14.29
+18,"The Werx (Original, Pan or Ultra Thin)",Large,16.29
+19,"The Werx (Original, Pan or Ultra Thin)",X-Large,18.29
+20,5 Meat Supreme (Original),Personal,4.29
+21,"5 Meat Supreme (Original, Pan or Ultra Thin)",Medium,14.29
+22,"5 Meat Supreme (Original, Pan or Ultra Thin)",Large,16.29
+23,"5 Meat Supreme (Original, Pan or Ultra Thin)",X-Large,18.29
+24,"Hearty Hawaiian (Original, Pan or Ultra Thin)",Medium,13.99
+25,"Hearty Hawaiian (Original, Pan or Ultra Thin)",Large,15.99
+26,"Hearty Hawaiian (Original, Pan or Ultra Thin)",X-Large,17.99
+28,"Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",10 Pc.,9.49
+29,"Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",20 Pc.,16.49
+30,"Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",50 Pc.,36.99
+31,"Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",100 Pc.,68.99
+32,"Boneless Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",Regular,8.99
+33,"Boneless Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",Large,15.49
+34,"Boneless Wings (Spicy or Mild Buffalo, Sweet BBQ or Plain)",Party Size,34.99
+35,Breadsticks,6 Pc.,3.69
+36,Breadsticks,24 Pc.,12.49
+37,Breadsticks,48 Pc.,22.99
+38,Garlic Cheese Bread,,4.69
+39,Pretzel Sticks,6 Pc.,4.19
+40,Pretzel Sticks,24 Pc.,14.49
+41,Pretzel Sticks,48 Pc.,24.99
+43,Chopped House Salad,Small,4.49
+44,Chopped House Salad,Large,6.49
+45,Chopped House Salad,Party Size,10.99
+46,Caesar Salad,Small,4.49
+47,Caesar Salad,Large,6.49
+48,Caesar Salad,Party Size,10.99
+49,Chopped Italian Salad,Small,5.49
+50,Mandarin Cranberry Salad,Small,5.49
+51,Side of Chicken,,0.99
+53,Cinnamon Crunch Dessert,Regular,3.69
+54,Cinnamon Crunch Dessert,Large,5.69
+55,Apple Crunch Dessert,Regular,3.69
+56,Apple Crunch Dessert,Large,5.69
+57,Soft Serve,Cup,0.99
+58,Soft Serve,Cone,0.99
+60,Fountain Drink,12 oz.,1.99
+61,Fountain Drink,20 oz.,2.19
+62,Fountain Drink,32 oz.,2.59
+63,Dasani Water,Bottle,1.79
+64,Domestic Beer,Glass,4.39
+65,Domestic Beer,Pitcher,13.49

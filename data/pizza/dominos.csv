@@ -1,0 +1,158 @@
+,food,size,price
+1,Hand Tossed,"Small (10"")",5.99
+2,Hand Tossed,"Medium (12"")",7.99
+3,Hand Tossed,"Large (14"")",9.99
+4,Handmade Pan,"Medium (12"")",7.99
+5,Crunchy Thin Crust,"Small (10"")",5.99
+6,Crunchy Thin Crust,"Medium (12"")",7.99
+7,Crunchy Thin Crust,"Large (14"")",9.99
+8,Brooklyn Style,"Large (14"")",9.99
+9,Brooklyn Style,"X-Large (16"")",11.99
+10,Gluten Free Crust,"Small (10"")",8.99
+12,Spinach & Feta (Hand Tossed or Thin Crust),"Small (10"")",11.99
+13,"Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+14,"Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+15,Spinach & Feta (Brooklyn Style),"X-Large (16"")",17.99
+16,Spinach & Feta (Gluten Free Crust),"Small (10"")",14.99
+17,Wisconsin 6 Cheese (Hand Tossed or Thin Crust),"Small (10"")",11.99
+18,"Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+19,"Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+20,Wisconsin 6 Cheese (Brooklyn Style),"X-Large (16"")",17.99
+21,Wisconsin 6 Cheese (Gluten Free Crust),"Small (10"")",14.99
+22,Honolulu Hawaiian (Hand Tossed or Thin Crust),"Small (10"")",11.99
+23,"Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+24,"Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+25,Honolulu Hawaiian (Brooklyn Style),"X-Large (16"")",17.99
+26,Honolulu Hawaiian (Gluten Free Crust),"Small (10"")",14.99
+27,Philly Cheese Steak (Hand Tossed or Thin Crust),"Small (10"")",11.99
+28,"Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+29,"Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+30,Philly Cheese Steak (Brooklyn Style),"X-Large (16"")",17.99
+31,Philly Cheese Steak (Gluten Free Crust),"Small (10"")",14.99
+32,Pacific Veggie (Hand Tossed or Thin Crust),"Small (10"")",11.99
+33,"Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+34,"Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+35,Pacific Veggie (Brooklyn Style),"X-Large (16"")",17.99
+36,Pacific Veggie (Gluten Free Crust),"Small (10"")",14.99
+37,Cali Chicken Bacon Ranch™ (Hand Tossed or Thin Crust),"Small (10"")",11.99
+38,"Cali Chicken Bacon Ranch™ (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+39,"Cali Chicken Bacon Ranch™ (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+40,Cali Chicken Bacon Ranch™ (Brooklyn Style),"X-Large (16"")",17.99
+41,Cali Chicken Bacon Ranch™ (Gluten Free Crust),"Small (10"")",14.99
+42,Fiery Hawaiian™ (Hand Tossed or Thin Crust),"Small (10"")",11.99
+43,"Fiery Hawaiian™ (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+44,"Fiery Hawaiian™ (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+45,Fiery Hawaiian™ (Brooklyn Style),"X-Large (16"")",17.99
+46,Fiery Hawaiian™ (Gluten Free Crust),"Small (10"")",14.99
+47,Buffalo Chicken (Hand Tossed or Thin Crust),"Small (10"")",11.99
+48,"Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+49,"Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+50,Buffalo Chicken (Brooklyn Style),"X-Large (16"")",17.99
+51,Buffalo Chicken (Gluten Free Crust),"Small (10"")",14.99
+52,Memphis BBQ Chicken (Hand Tossed or Thin Crust),"Small (10"")",11.99
+53,"Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust)","Medium (12"")",13.99
+54,"Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+55,Memphis BBQ Chicken (Brooklyn Style),"X-Large (16"")",17.99
+56,Memphis BBQ Chicken (Gluten Free Crust),"Small (10"")",14.99
+58,America's Favorite Feast® (Hand Tossed or Thin Crust),"Small (10"")",11.99
+59,America's Favorite Feast® (Hand Tossed or Thin Crust),"Medium (12"")",13.99
+60,America's Favorite Feast® (Handmade Pan),"Medium (12"")",15.49
+61,"America's Favorite Feast® (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+62,America's Favorite Feast® (Brooklyn Style),"X-Large (16"")",17.99
+63,America's Favorite Feast® (Gluten Free Crust),"Small (10"")",14.99
+64,Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust),"Small (10"")",11.99
+65,Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust),"Medium (12"")",13.99
+66,Bacon Cheeseburger Feast® (Handmade Pan),"Medium (12"")",15.49
+67,"Bacon Cheeseburger Feast® (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+68,Bacon Cheeseburger Feast® (Brooklyn Style),"X-Large (16"")",17.99
+69,Bacon Cheeseburger Feast® (Gluten Free Crust),"Small (10"")",14.99
+70,Deluxe Feast® (Hand Tossed or Thin Crust),"Small (10"")",11.99
+71,Deluxe Feast® (Hand Tossed or Thin Crust),"Medium (12"")",13.99
+72,Deluxe Feast® (Handmade Pan),"Medium (12"")",15.49
+73,"Deluxe Feast® (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+74,Deluxe Feast® (Brooklyn Style),"X-Large (16"")",17.99
+75,Deluxe Feast® (Gluten Free Crust),"Small (10"")",14.99
+76,ExtravaganZZa Feast® (Hand Tossed or Thin Crust),"Small (10"")",11.99
+77,"ExtravaganZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+78,"ExtravaganZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+79,ExtravaganZZa Feast® (Brooklyn Style),"X-Large (16"")",17.99
+80,ExtravaganZZa Feast® (Gluten Free Crust),"Small (10"")",14.99
+81,MeatZZa Feast® (Hand Tossed or Thin Crust),"Small (10"")",11.99
+82,"MeatZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+83,"MeatZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+84,MeatZZa Feast® (Brooklyn Style),"X-Large (16"")",17.99
+85,MeatZZa Feast® (Gluten Free Crust),"Small (10"")",14.99
+86,Ultimate Pepperoni Feast™ (Hand Tossed or Thin Crust),"Small (10"")",11.99
+87,"Ultimate Pepperoni Feast™ (Hand Tossed, Handmade Pan or Thin Crust)","Medium (12"")",13.99
+88,"Ultimate Pepperoni Feast™ (Hand Tossed, Thin Crust or Brooklyn Style)","Large (14"")",15.99
+89,Ultimate Pepperoni Feast™ (Brooklyn Style),"X-Large (16"")",17.99
+90,Ultimate Pepperoni Feast™ (Gluten Free Crust),"Small (10"")",14.99
+93,Boneless Chicken,8 Pc.,5.99
+94,Boneless Chicken,14 Pc.,9.99
+95,Boneless Chicken,40 Pc.,25.99
+96,Wings,8 Pc.,6.49
+97,Wings,14 Pc.,10.99
+98,Wings,40 Pc.,25.99
+99,Specialty Chicken – Crispy Bacon & Tomato,12 Pc.,5.99
+100,Specialty Chicken – Classic Hot Buffalo,12 Pc.,5.99
+101,Specialty Chicken – Spicy Jalapeno - Pineapple,12 Pc.,5.99
+102,Specialty Chicken – Sweet BBQ Bacon,12 Pc.,5.99
+104,Italian Sausage & Peppers,,5.99
+105,Buffalo Chicken,,5.99
+106,Chicken Habanero,,5.99
+107,Mediterranean Veggie,,5.99
+108,Philly Cheese Steak,,5.99
+109,Chicken Bacon Ranch,,5.99
+110,Italian,,5.99
+111,Chicken Parm,,5.99
+113,Chicken Alfredo (Dish),,5.99
+114,Chicken Alfredo (Bread Bowl),,6.99
+115,Italian Sausage Marinara (Dish),,5.99
+116,Italian Sausage Marinara (Bread Bowl),,6.99
+117,Chicken Carbonara (Dish),,6.99
+118,Chicken Carbonara (Bread Bowl),,7.99
+119,Pasta Primavera (Dish),,6.99
+120,Pasta Primavera (Bread Bowl),,7.99
+121,Build Your Own Pasta (Dish),,6.99
+122,Build Your Own Pasta (Bread Bowl),,7.99
+124,Stuffed Cheesy Bread,8 Pc.,5.99
+125,Stuffed Cheesy Bread with Spinach & Feta,8 Pc.,5.99
+126,Stuffed Cheesy Bread with Bacon & Jalapeno,8 Pc.,5.99
+127,Parmesan Bread Bites,16 Pc.,2.99
+128,Parmesan Bread Bites,32 Pc.,5.0
+129,Breadsticks,8 Pc.,4.99
+131,Classic Garden Salad,,6.49
+132,Chicken Apple Pecan Salad,,6.49
+133,Chicken Caesar Salad,,6.49
+134,Chips,,
+135,Lay's® Classic Potato Chips,,0.75
+136,Doritos® Nacho Cheese Tortilla Chips,,0.75
+138,Coke®,20 oz.,1.79
+139,Coke®,2 Liter,2.99
+140,Coke Zero™,20 oz.,1.79
+141,Coke Zero™,2 Liter,2.99
+142,Diet Coke®,20 oz.,1.79
+143,Diet Coke®,2 Liter,2.99
+144,Sprite,20 oz.,1.79
+145,Sprite,2 Liter,2.99
+146,Pibb Xtra,20 oz.,1.79
+147,Dasani® Water,20 oz.,1.79
+148,Orange,20 oz.,1.79
+149,Orange,2 Liter,2.99
+151,Domino's Marbled Cookie Brownie,9 Pc.,6.49
+152,Cinna Stix®,8 Pc.,4.99
+153,Chocolate Lava Crunch Cake,2 Pc.,4.99
+155,Kicker Hot Sauce,Cup,0.59
+156,Sweet Mango Habanero Sauce,Cup,0.59
+157,BBQ Sauce,Cup,0.59
+158,Ranch,Cup,0.59
+159,Blue Cheese,Cup,0.59
+160,Garlic Dipping Sauce,Cup,0.59
+161,Icing Dipping Sauce,Cup,0.59
+162,Marinara Dipping Sauce,Cup,0.59
+163,Creamy Caesar Dressing,Bag,0.59
+164,Golden Italian Dressing,Bag,0.59
+165,Garden Ranch,Bag,0.59
+166,Fat-Free Raspberry or Balsamic Vinaigrette,Bag,0.59
+167,Red Pepper Seasoning Flakes,,0.99
+168,Grated Parmesan Cheese,,0.99

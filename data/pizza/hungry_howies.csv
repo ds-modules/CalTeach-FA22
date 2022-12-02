@@ -1,0 +1,141 @@
+,food,size,price
+1,Original,Junior,3.0
+2,Original,Small,4.0
+3,Original or Thin Crust,Medium,6.0
+4,Original or Thin Crust,Large,8.0
+5,Original,X-Large,11.0
+6,Deep Dish,Large,10.0
+7,Gluten Free,Small,7.0
+9,Original,Junior,0.79
+10,Original,Small,1.29
+11,Original or Thin Crust,Medium,1.49
+12,"Original, Thin Crust or Deep Dish",Large,1.79
+13,Original,X-Large,1.99
+15,Asian or BBQ Chicken (Original),Junior,6.0
+16,Asian or BBQ Chicken (Original),Small,8.0
+17,Asian or BBQ Chicken (Original or Thin Crust),Medium,11.0
+18,Asian or BBQ Chicken (Original or Thin Crust),Large,15.0
+19,Asian or BBQ Chicken (Original),X-Large,18.0
+20,Asian or BBQ Chicken (Deep Dish),Large,17.0
+21,Asian or BBQ Chicken (Gluten Free),Small,11.0
+22,Buffalo Chicken (Original),Junior,5.0
+23,Buffalo Chicken (Original),Small,7.0
+24,Buffalo Chicken (Original or Thin Crust),Medium,10.0
+25,Buffalo Chicken (Original or Thin Crust),Large,13.0
+26,Buffalo Chicken (Original),X-Large,16.0
+27,Buffalo Chicken (Deep Dish),Large,15.0
+28,Buffalo Chicken (Gluten Free),Small,10.0
+29,Howie Special (Original),Junior,10.0
+30,Howie Special (Original),Small,9.0
+31,Howie Special (Original or Thin Crust),Medium,12.0
+32,Howie Special (Original or Thin Crust),Large,16.0
+33,Howie Special (Original),X-Large,19.0
+34,Howie Special (Deep Dish),Large,18.0
+35,Howie Special (Gluten Free),Small,12.0
+36,Works (Original),Junior,10.0
+37,Works (Original),Small,11.0
+38,Works (Original or Thin Crust),Medium,14.0
+39,Works (Original or Thin Crust)),Large,18.0
+40,Works (Original),X-Large,20.0
+41,Works (Deep Dish),Large,20.0
+42,Works (Gluten Free),Small,14.0
+43,Howie Maui (Original),Junior,10.0
+44,Howie Maui (Original),Small,7.0
+45,Howie Maui (Original or Thin Crust),Medium,10.0
+46,Howie Maui (Original or Thin Crust),Large,13.0
+47,Howie Maui (Original),X-Large,16.0
+48,Howie Maui (Deep Dish),Large,15.0
+49,Howie Maui (Gluten Free),Small,10.0
+50,Meat Eaters (Original),Junior,10.0
+51,Meat Eaters (Original),Small,8.0
+52,Meat Eaters (Original or Thin Crust),Medium,11.0
+53,Meat Eaters (Original or Thin Crust),Large,15.0
+54,Meat Eaters (Original),X-Large,18.0
+55,Meat Eaters (Deep Dish),Large,17.0
+56,Meat Eaters (Gluten Free),Small,11.0
+57,Veggie (Original),Junior,10.0
+58,Veggie (Original),Small,9.0
+59,Veggie (Original or Thin Crust),Medium,12.0
+60,Veggie (Original or Thin Crust),Large,16.0
+61,Veggie (Original),X-Large,19.0
+62,Veggie (Deep Dish),Large,18.0
+63,Veggie (Gluten Free),Small,12.0
+64,Bacon Cheddar Burger (Original),Junior,10.0
+65,Bacon Cheddar Burger (Original),Small,7.0
+66,Bacon Cheddar Burger (Original or Thin Crust),Medium,10.0
+67,Bacon Cheddar Burger (Original or Thin Crust),Large,13.0
+68,Bacon Cheddar Burger (Original),X-Large,16.0
+69,Bacon Cheddar Burger (Deep Dish),Large,15.0
+70,Bacon Cheddar Burger (Gluten Free),Small,10.0
+71,Philly Cheese Steak (Original),Junior,10.0
+72,Philly Cheese Steak (Original),Small,10.0
+73,Philly Cheese Steak (Original or Thin Crust),Medium,13.0
+74,Philly Cheese Steak (Original or Thin Crust),Large,17.0
+75,Philly Cheese Steak (Original),X-Large,19.0
+76,Philly Cheese Steak (Deep Dish),Large,19.0
+77,Philly Cheese Steak (Gluten Free),Small,13.0
+78,3 Cheeser Pleaser (Original),Junior,10.0
+79,3 Cheeser Pleaser (Original),Small,8.0
+80,3 Cheeser Pleaser (Original or Thin Crust),Medium,11.0
+81,3 Cheeser Pleaser (Original or Thin Crust),Large,15.0
+82,3 Cheeser Pleaser (Original),X-Large,18.0
+83,3 Cheeser Pleaser (Deep Dish),Large,17.0
+84,3 Cheeser Pleaser (Gluten Free),Small,11.0
+85,Pepperoni Plus (Original),Junior,10.0
+86,Pepperoni Plus (Original),Small,10.0
+87,Pepperoni Plus (Original or Thin Crust),Medium,13.0
+88,Pepperoni Plus (Original or Thin Crust),Large,17.0
+89,Pepperoni Plus (Original),X-Large,19.0
+90,Pepperoni Plus (Deep Dish),Large,19.0
+91,Pepperoni Plus (Gluten free),Small,13.0
+92,Meat Eaters Plus (Original),Junior,10.0
+93,Meat Eaters Plus (Original),Small,9.0
+94,Meat Eaters Plus (Original or Thin Crust),Medium,12.0
+95,Meat Eaters Plus (Original or Thin Crust),Large,16.0
+96,Meat Eaters Plus (Original),X-Large,19.0
+97,Meat Eaters Plus (Deep Dish),Large,18.0
+98,Meat Eaters Plus (Gluten Free),Small,12.0
+100,Deluxe Italian,Regular,4.99
+101,Deluxe Italian,Large,6.99
+102,"Steak, Cheese & Mushroom",Regular,4.99
+103,"Steak, Cheese & Mushroom",Large,6.99
+104,Pizza Calzone,Regular,4.99
+105,Pizza Calzone,Large,6.99
+106,Pizza Deluxe,Regular,4.99
+107,Pizza Deluxe,Large,6.99
+108,Turkey or Turkey Club,Regular,4.99
+109,Turkey or Turkey Club,Large,6.99
+110,Ham & Cheese,Regular,4.99
+111,Ham & Cheese,Large,6.99
+112,Veggie Calzone,Regular,4.99
+113,Veggie Calzone,Large,6.99
+115,3 Cheeser Bread,Regular (16 Pc.),4.99
+116,Asiago Bread,Regular (16 Pc.),3.99
+117,Cinnamon Bread,Regular (16 Pc.),3.99
+118,Cajun Bread,Regular (16 Pc.),3.99
+119,Howie Bread,Regular (16 Pc.),3.99
+121,Antipasto Salad,Regular,5.99
+122,Antipasto Salad,Large,7.99
+123,Greek Salad,Regular,5.99
+124,Greek Salad,Large,7.99
+125,Chef Salad,Regular,5.99
+126,Chef Salad,Large,7.99
+127,Garden Salad,Regular,5.99
+128,Garden Salad,Large,7.99
+129,Chicken Asiago Salad,Regular,5.99
+130,Chicken Asiago Salad,Large,7.99
+131,Chicken Caesar Salad,Regular,5.99
+132,Chicken Caesar Salad,Large,7.99
+135,Wings or Boneless Wings,10 Pc.,7.49
+136,Wings or Boneless Wings,20 Pc.,14.49
+138,Chicken Howie Roll,Regular,3.99
+139,Pepperoni Howie Roll,Regular,3.5
+140,Steak Howie Roll,Regular,3.99
+142,Soft Drink,20 oz.,1.59
+143,Soft Drink,2 Liters,2.59
+144,Aquafina Water,20 oz.,1.59
+146,Dipping Sauce,Cup,0.59
+147,Black or Green Olives,,0.59
+148,Jalapenos,,0.59
+149,Mild Peppers,,0.59
+150,Pineapple,,0.59

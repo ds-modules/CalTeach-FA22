@@ -6,8 +6,8 @@ from scipy.stats import *
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-haas_prices_2019 = pd.read_csv('../data/avocado-19.csv')
-haas_prices_2022 = pd.read_csv('../data/avocado-22.csv')
+haas_prices_2019 = pd.read_csv('https://github.com/ds-modules/CalTeach-FA22/raw/main/data/avocado-19.csv')
+haas_prices_2022 = pd.read_csv('https://github.com/ds-modules/CalTeach-FA22/raw/main/data/avocado-19.csv')
 samp_2019 = haas_prices_2019.sample(n=50, random_state = 42)
 samp_2022 = haas_prices_2022.sample(n=50, random_state = 42)
 

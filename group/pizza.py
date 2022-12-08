@@ -33,6 +33,29 @@ def plot_party(pizza_price = 14, drink_price = 2.69, slices = 10, cups = 10):
         for j in list(range(min_drink, 201)):
             if (cost := i*pizza_price + j*drink_price) <= budget:
                 df = df.append({'Pizza': i, 'Drink': j, 'Cost': cost}, ignore_index = True)
+            else:
+                break
     fig = px.scatter_3d(df, x = 'Pizza', y = 'Drink', z = 'Cost', color = 'Cost', opacity = 0.5, template = "seaborn")
     fig = fig.update_layout(margin=dict(l=20, r=20, t=20, b=20), scene_camera = dict(eye=dict(x=1, y=2.5, z=0.1)))
-    return fig
+    fig.show()
+    return df
+
+def add_sides(df, side_price = 7, servings = 8):
+    budget, students = 3000, 500
+    df2 = df.copy()
+    sides = []
+    for idx, row in df2.iterrows():
+        left = budget - row['Cost']
+        side = int(left // side_price)
+        side = np.random.choice(list(range(side + 1)))
+        sides += [side]
+        row["Cost"] = row["Cost"] + side * side_price
+    df2["Sides"] = sides
+    df2 = df2.query("Sides > 0")
+    printmd("### The plot below shows all the possible combinations of the different variables that are within the budget.")
+    printmd("### The color of the dots represents the total cost of the order.")
+    printmd("### The plot is interactive, so you can drag it around and adjust the view.")
+    fig = px.scatter_3d(df2, x = 'Pizza', y = 'Drink', z = 'Sides', color = 'Cost', opacity = 0.5, template = "seaborn")
+    fig = fig.update_layout(margin=dict(l=20, r=20, t=20, b=20), scene_camera = dict(eye=dict(x=1, y=2.5, z=0.1)))
+    fig.show()
+    return df2

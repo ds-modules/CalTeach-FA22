@@ -24,7 +24,8 @@ def printmd(s):
     display(Markdown(s))
 
 def plot_party(pizza_price = 14, drink_price = 2.69, slices = 10, cups = 10):
-    printmd("## Please Allow 20-30 Seconds for the Plot to Load")
+    printmd("## Please Allow 30-45 Seconds for the Plot to Load")
+    printmd("### Once the plot loads, use your mouse to drag the plot around and adjust the view!")
     people, budget = 500, 3000
     df = pd.DataFrame(columns = ['Pizza', 'Drink', 'Cost'])
     min_pizza, min_drink = people//slices, people//cups
